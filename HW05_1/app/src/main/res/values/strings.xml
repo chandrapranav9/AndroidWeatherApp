@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">HW05_1</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_new">Add</string>
+    <string name="no_cities_string">There are no cities to display. Add using the \"+\" button from the menu.</string>
+    <string name="city_hint_string">City Name (Eg. Charlotte)</string>
+    <string name="state_hint_string">State Initial (Eg. NC)</string>
+    <string name="savecity_sring">Save City</string>
+    <string name="location_string">Current Location:</string>
+    <string name="maxtemp_string">Max Temperature:</string>
+    <string name="mintemp_string">Min Temperature:</string>
+    <string name="feelslike_string">Feels Like:</string>
+    <string name="humidity_string">Humidity:</string>
+    <string name="dewpoint_string">Dewpoint:</string>
+    <string name="pressure_string">Pressure:</string>
+    <string name="clouds_string">Clouds:</string>
+    <string name="winds_string">Winds:</string>
+</resources>
